@@ -7,13 +7,16 @@ app/
 ├── Config/
 │   ├── Filters.php
 │   └── Routes.php
+
 ├── Controllers/
 │   ├── Auth.php
 │   └── Users.php
 ├── Filters/
 │   └── AuthFilter.php
+
 ├── Models/
 │   └── UserModel.php
+
 └── Views/
     ├── auth/
     │   └── login.php
