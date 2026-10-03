@@ -4,6 +4,7 @@ Log in and Log out Database CodeIgniter
 
 # Files Only Need to Check
 app/
+
 ├── Config/
 │   ├── Filters.php
 │   └── Routes.php
